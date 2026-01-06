@@ -1,0 +1,5 @@
+pydantic
+boto3
+fastapi
+python-dateutil
+uvicorn
